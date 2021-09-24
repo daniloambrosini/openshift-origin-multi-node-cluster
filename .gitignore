@@ -1,3 +1,4 @@
 .vagrant
 keys/*
 disks/*
+.DS_Store
